@@ -1,0 +1,28 @@
+{
+    "playlist1": {
+        "songs": [
+            {
+                "title": "Charlotte the Harlot (2015 Remaster)",
+                "url": "https://www.youtube.com/watch?v=cAi-pUeZBrE"
+            }
+        ],
+        "name": "Iron Maiden"
+    },
+    "playlist2": {
+        "songs": [
+            {
+                "title": "Max Pezzali / 883 - Hanno ucciso l&#39;Uomo Ragno (Official Video)",
+                "url": "https://www.youtube.com/watch?v=lrRqQkn6kZI"
+            },
+            {
+                "title": "Metallica: Enter Sandman (Official Music Video)",
+                "url": "https://www.youtube.com/watch?v=CD-E-LDc384"
+            }
+        ],
+        "name": "Metallica"
+    },
+    "playlist3": {
+        "songs": [],
+        "name": "Playlist 3"
+    }
+}
